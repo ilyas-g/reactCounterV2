@@ -1,3 +1,28 @@
 .App {
   text-align: center;
 }
+
+.d-flex {
+  display: flex;
+}
+
+.mb-15 {
+  margin-bottom: 15px;
+}
+
+.mb-25 {
+  margin-bottom: 25px;
+}
+
+.mb-50 {
+  margin-bottom: 50px;
+}
+
+.divCounter {
+  width: 100px;
+  margin: auto;
+}
+
+.divCounter p {
+  margin: auto;
+}
